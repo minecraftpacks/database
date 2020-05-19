@@ -1,0 +1,7 @@
+{
+  "trophy_manager": {
+    "name": "Trophy Manager",
+    "source": "misode/TrophyManager",
+    "desc": "A data pack for restoring item data on player heads"
+  }
+}
